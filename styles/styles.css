@@ -22,7 +22,7 @@ body {
   background-color: #fff;
 }
 
-/* sidebar styles */
+/* ------------------------sidebar styles ---------------------------------*/
 .sidebar {
   width: 370px;
   padding-top: 40px;
@@ -67,7 +67,7 @@ body {
   text-decoration: underline;
 }
 
-/* Tech Skills  Soft skills*/
+/*==============================Tech Skills  Soft skills=================================*/
 
 .tech-skills {
   margin-bottom: 44px;
