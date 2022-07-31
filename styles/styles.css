@@ -8,7 +8,7 @@
 body {
   background-color: #e5e5e5;
   padding: 40px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: normal;
 }
 
@@ -22,7 +22,7 @@ body {
   background-color: #fff;
 }
 
-/* sidebar styles */
+/* sidebar styles    some test*/
 .sidebar {
   width: 370px;
   padding-top: 40px;
